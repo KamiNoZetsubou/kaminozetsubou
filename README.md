@@ -24,6 +24,6 @@
 
 <p align="left"> <a href="https://twitter.com/kaminozetsubou" target="blank"><img src="https://img.shields.io/twitter/follow/kaminozetsubou?logo=twitter&style=for-the-badge" alt="kaminozetsubou" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaminozetsubou&show_icons=true&locale=en&layout=compact" alt="kaminozetsubou" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaminozetsubou&show_icons=true&locale=en&layout=compact" alt="kaminozetsubou" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaminozetsubou&show_icons=true&locale=en" alt="kaminozetsubou" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaminozetsubou&show_icons=true&locale=en" alt="kaminozetsubou" /></p>
